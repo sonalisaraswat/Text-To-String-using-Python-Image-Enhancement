@@ -12,5 +12,5 @@ and after enhancemet:
 
 The string output is:
 
-<img src="https://github.com/sonalisaraswat/Text-To-String-using-Python-Image-Enhancement/blob/master/code%2Boutput.png" width="60%" height="300">
+<img src="https://github.com/sonalisaraswat/Text-To-String-using-Python-Image-Enhancement/blob/master/code%2Boutput.png" width="60%" height="500">
 
